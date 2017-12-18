@@ -1,0 +1,19 @@
+title = "Cooking Mama: Sweet Shop"
+description = "Cooking Mama: Sweet Shop is a cooking simulation game developed by OFFICE CREATE and published by Rising Star Games."
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "00040000001B9C00"
+region = "usa"
+release_date = "2017-05-18"
+
+[[testcases]]
+title = "00040000001B9C00"
+compatibility = "1"
+date = "2017-12-18"
+version = "HEAD-040006f"
+cpu = "Intel Celeron 1007U @ 1.50GHz"
+gpu = "Intel HD Graphics"
+os = "Windows 10 16299.125"
+author = "HardWitchMismay"
